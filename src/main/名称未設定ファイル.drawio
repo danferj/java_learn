@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T03:47:46.883Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="xQOOJX5M_cpNP7oLNDt0" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T03:49:36.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="xvMnXj_UcBpFHDG6Fvaw" version="22.1.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="160" width="189" height="520" as="geometry" />
+          <mxGeometry x="1627" y="160" width="189" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="160" width="189" height="520" as="geometry" />
+          <mxGeometry x="1430" y="160" width="189" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1174" y="160" width="189" height="520" as="geometry" />
+          <mxGeometry x="1233" y="160" width="189" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="978" y="160" width="189" height="520" as="geometry" />
+          <mxGeometry x="1037" y="160" width="189" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
           <mxGeometry x="133" y="160" width="361" height="520" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#3399FF;strokeWidth=1.5;align=left;" vertex="1" parent="1">
-          <mxGeometry x="501" y="160" width="470" height="520" as="geometry" />
+          <mxGeometry x="501" y="160" width="529" height="520" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;0&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;MyOps&lt;span style=&quot;background-color: initial;&quot;&gt;数据保存&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;(batch&lt;span style=&quot;background-color: initial;&quot;&gt;每日)&lt;/span&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="236" y="236" width="110" height="84" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t2B5cQSSnt68LuHzUedQ-99" value="COMPETENCE&#xa;LEVEL" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="690" y="410" width="110" height="50" as="geometry" />
+          <mxGeometry x="650" y="409" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="t2B5cQSSnt68LuHzUedQ-104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="2" target="5" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -110,34 +110,34 @@
           <mxGeometry x="671" y="520" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="t2B5cQSSnt68LuHzUedQ-120" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;5.2&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Excel报告导出&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="1620" y="510" width="110" height="90" as="geometry" />
+          <mxGeometry x="1679" y="510" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-66" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;2.2&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;软技能评价审核&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1010" y="520" width="110" height="90" as="geometry" />
+          <mxGeometry x="1075" y="520" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-69" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;2.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;软技能自评&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1010" y="236" width="110" height="90" as="geometry" />
+          <mxGeometry x="1075" y="236" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-70" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;1.5&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;技术能力Level&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;导入&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
           <mxGeometry x="820" y="520" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-77" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;3.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;职业路线变更&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1217" y="236" width="110" height="90" as="geometry" />
+          <mxGeometry x="1276" y="236" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-79" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;4.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;能力标准设定&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;（Roadmap设定）&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1408.5" y="236" width="110" height="90" as="geometry" />
+          <mxGeometry x="1467.5" y="236" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-81" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;5.1&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;查看个人能力状态&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" vertex="1" parent="1">
-          <mxGeometry x="1620" y="240" width="110" height="90" as="geometry" />
+          <mxGeometry x="1679" y="240" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-83" value="WRITE&#xa;EXAM" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
-          <mxGeometry x="840" y="410" width="110" height="50" as="geometry" />
+          <mxGeometry x="781" y="409" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-84" value="CAREER&#xa;DEVELOPMENT&#xa;ROUTE" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
-          <mxGeometry x="1220" y="410" width="110" height="50" as="geometry" />
+          <mxGeometry x="1279" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-85" value="STANDARD&#xa;COMPETENCE&#xa;LEVEL" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
-          <mxGeometry x="1410.5" y="410" width="110" height="50" as="geometry" />
+          <mxGeometry x="1469.5" y="410" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6" target="YHrZRuPrI8IDq1-8M-Wd-83">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -147,6 +147,18 @@
               <mxPoint x="650" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YHrZRuPrI8IDq1-8M-Wd-90" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=0.5;entryY=0;strokeColor=#990000;strokeWidth=2;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHrZRuPrI8IDq1-8M-Wd-74">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="305" y="610" as="sourcePoint" />
+            <mxPoint x="589" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHrZRuPrI8IDq1-8M-Wd-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="t2B5cQSSnt68LuHzUedQ-99" target="t2B5cQSSnt68LuHzUedQ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHrZRuPrI8IDq1-8M-Wd-92" value="WRITE&#xa;EXAM" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" vertex="1" parent="1">
+          <mxGeometry x="910" y="409" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
