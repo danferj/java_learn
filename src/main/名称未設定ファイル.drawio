@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T04:21:02.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="gnn5EEb-xrPXE_1QMG_9" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T04:21:42.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="jY42rVf6HZ6OAApTnBDQ" version="22.1.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1622" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -43,23 +43,8 @@
         <mxCell id="12" value="管理者" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="990" y="760" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="36" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="210" y="109.99581005586595" as="sourcePoint" />
-            <mxPoint x="450" y="100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="60" value="日语/TOP/BA等级" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="691.0000000000001" y="379.99999999999983" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="65" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="380" y="46" as="sourcePoint" />
-            <mxPoint x="531" y="130" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="465" y="90" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="66" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#990000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="8" source="3">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
