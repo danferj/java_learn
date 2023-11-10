@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T05:29:22.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="v3zBDDzUTx3a9zayKj64" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T05:29:57.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="5Sq1uzfAHFP_EZLW0uPf" version="22.1.0" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1379" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="YHrZRuPrI8IDq1-8M-Wd-118" value="各技术的RoadMap能力标准值录入" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="1507.5" y="719.9999999999998" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oFrODm7t06LH-vLA_2eB-68" value="各种审核" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
+          <mxGeometry x="1020" y="739.9999999999998" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
